@@ -1,0 +1,1690 @@
+fileFormatVersion: 2
+guid: 5b5cebeb575933245a0b6d274386ea0d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8506754297128721525
+    second: NES - Duck Hunt - Ducks_0
+  - first:
+      213: -3890645449816728157
+    second: NES - Duck Hunt - Ducks_1
+  - first:
+      213: -4842315275347259629
+    second: NES - Duck Hunt - Ducks_2
+  - first:
+      213: -2055489365365776948
+    second: NES - Duck Hunt - Ducks_3
+  - first:
+      213: 8629563384491437089
+    second: NES - Duck Hunt - Ducks_4
+  - first:
+      213: 8913824640829718490
+    second: NES - Duck Hunt - Ducks_5
+  - first:
+      213: 2201655434151381034
+    second: NES - Duck Hunt - Ducks_6
+  - first:
+      213: -6764501136438564760
+    second: NES - Duck Hunt - Ducks_7
+  - first:
+      213: -6629036128990694042
+    second: NES - Duck Hunt - Ducks_8
+  - first:
+      213: 6625927710933242719
+    second: NES - Duck Hunt - Ducks_9
+  - first:
+      213: -8413673640587252623
+    second: NES - Duck Hunt - Ducks_10
+  - first:
+      213: 2676286794251610208
+    second: NES - Duck Hunt - Ducks_11
+  - first:
+      213: -8362548583592841310
+    second: NES - Duck Hunt - Ducks_12
+  - first:
+      213: -3693856402991910653
+    second: NES - Duck Hunt - Ducks_13
+  - first:
+      213: -4337193011983746105
+    second: NES - Duck Hunt - Ducks_14
+  - first:
+      213: -3343154408854498576
+    second: NES - Duck Hunt - Ducks_15
+  - first:
+      213: 2036834167228711098
+    second: NES - Duck Hunt - Ducks_16
+  - first:
+      213: 5045023326224117876
+    second: NES - Duck Hunt - Ducks_17
+  - first:
+      213: 8528506121644886264
+    second: NES - Duck Hunt - Ducks_18
+  - first:
+      213: -4128055507486435126
+    second: NES - Duck Hunt - Ducks_19
+  - first:
+      213: -1363909401531730906
+    second: NES - Duck Hunt - Ducks_20
+  - first:
+      213: 8184523329772923146
+    second: NES - Duck Hunt - Ducks_21
+  - first:
+      213: -1887401525029306816
+    second: NES - Duck Hunt - Ducks_22
+  - first:
+      213: -8538051200459994824
+    second: NES - Duck Hunt - Ducks_23
+  - first:
+      213: 807238000923681484
+    second: NES - Duck Hunt - Ducks_24
+  - first:
+      213: -5198169616364696909
+    second: NES - Duck Hunt - Ducks_25
+  - first:
+      213: -9119082696011864746
+    second: NES - Duck Hunt - Ducks_26
+  - first:
+      213: -7448375168020571655
+    second: NES - Duck Hunt - Ducks_27
+  - first:
+      213: 422841430464858221
+    second: NES - Duck Hunt - Ducks_28
+  - first:
+      213: -2329564174803104316
+    second: NES - Duck Hunt - Ducks_29
+  - first:
+      213: -8814882921927702722
+    second: NES - Duck Hunt - Ducks_30
+  - first:
+      213: 2609310391042897573
+    second: NES - Duck Hunt - Ducks_31
+  - first:
+      213: -307386091982521515
+    second: NES - Duck Hunt - Ducks_32
+  - first:
+      213: -6018553943665574434
+    second: NES - Duck Hunt - Ducks_33
+  - first:
+      213: 748722456742572623
+    second: NES - Duck Hunt - Ducks_34
+  - first:
+      213: -4366416965575968487
+    second: NES - Duck Hunt - Ducks_35
+  - first:
+      213: 8988133382705905531
+    second: NES - Duck Hunt - Ducks_36
+  - first:
+      213: 8903930504102361860
+    second: NES - Duck Hunt - Ducks_37
+  - first:
+      213: 8704147374674225920
+    second: NES - Duck Hunt - Ducks_38
+  - first:
+      213: 3657168933075157767
+    second: NES - Duck Hunt - Ducks_39
+  - first:
+      213: 1848774145555790998
+    second: NES - Duck Hunt - Ducks_40
+  - first:
+      213: 9117478180731636542
+    second: NES - Duck Hunt - Ducks_41
+  - first:
+      213: 8275047655946752077
+    second: NES - Duck Hunt - Ducks_42
+  - first:
+      213: -7210916783789676181
+    second: NES - Duck Hunt - Ducks_43
+  - first:
+      213: -5792794090226474668
+    second: NES - Duck Hunt - Ducks_44
+  - first:
+      213: -5481486203758580857
+    second: NES - Duck Hunt - Ducks_45
+  - first:
+      213: -3376484445556962784
+    second: NES - Duck Hunt - Ducks_46
+  - first:
+      213: -4452713875200919400
+    second: NES - Duck Hunt - Ducks_47
+  - first:
+      213: -6851185259276144892
+    second: NES - Duck Hunt - Ducks_48
+  - first:
+      213: 4403949515192359067
+    second: NES - Duck Hunt - Ducks_49
+  - first:
+      213: 8473624451054252432
+    second: NES - Duck Hunt - Ducks_50
+  - first:
+      213: 8364465855497345591
+    second: NES - Duck Hunt - Ducks_51
+  - first:
+      213: 1163300316775541500
+    second: NES - Duck Hunt - Ducks_52
+  - first:
+      213: -7162822938300633549
+    second: NES - Duck Hunt - Ducks_53
+  - first:
+      213: 6864868527308983165
+    second: NES - Duck Hunt - Ducks_54
+  - first:
+      213: -6149751698532877390
+    second: NES - Duck Hunt - Ducks_55
+  - first:
+      213: -2640264449216523924
+    second: NES - Duck Hunt - Ducks_56
+  - first:
+      213: 1515771107465808598
+    second: NES - Duck Hunt - Ducks_57
+  - first:
+      213: 6604516648237555458
+    second: NES - Duck Hunt - Ducks_58
+  - first:
+      213: -7095385835161689009
+    second: NES - Duck Hunt - Ducks_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 135
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b836d189900f1f980800000000000000
+      internalID: -8506754297128721525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 135
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad1fa0b396a10ac0800000000000000
+      internalID: -3890645449816728157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 133
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f8a7aa9e3acccb0800000000000000
+      internalID: -4842315275347259629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 131
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd97c9005f6973e0800000000000000
+      internalID: -2055489365365776948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 130
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c64534d2e52c770800000000000000
+      internalID: 8629563384491437089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_5
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 128
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf77ca884444bb70800000000000000
+      internalID: 8913824640829718490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_6
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 127
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28c666d3f9dd8e10800000000000000
+      internalID: 2201655434151381034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_7
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 127
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8686ad76e0aaf12a0800000000000000
+      internalID: -6764501136438564760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_8
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 127
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665774843cee004a0800000000000000
+      internalID: -6629036128990694042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 92
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53d79db52604fb50800000000000000
+      internalID: 6625927710933242719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_10
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 92
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17caab4c660ac3b80800000000000000
+      internalID: -8413673640587252623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_11
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 90
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068af68e8a4142520800000000000000
+      internalID: 2676286794251610208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_12
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 91
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afa002be5242fb80800000000000000
+      internalID: -8362548583592841310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 90
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3017d502c29ccbcc0800000000000000
+      internalID: -3693856402991910653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_14
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 88
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbf66e5fe13fc3c0800000000000000
+      internalID: -4337193011983746105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_15
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 87
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f252f627caba91d0800000000000000
+      internalID: -3343154408854498576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_16
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 86
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0cb0c22e9444c10800000000000000
+      internalID: 2036834167228711098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_17
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 86
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470f52b4cf5830640800000000000000
+      internalID: 5045023326224117876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 49
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f84365b1275b5670800000000000000
+      internalID: 8528506121644886264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 49
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac81d27236336b6c0800000000000000
+      internalID: -4128055507486435126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_20
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 47
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624b2e720ab621de0800000000000000
+      internalID: -1363909401531730906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_21
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 48
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09230fda94459170800000000000000
+      internalID: 8184523329772923146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_22
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 47
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ef818105a9ec5e0800000000000000
+      internalID: -1887401525029306816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_23
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 45
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8390c727bafb28980800000000000000
+      internalID: -8538051200459994824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_24
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 44
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2a0465fa2e33b00800000000000000
+      internalID: 807238000923681484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_25
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 44
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba8a5666446cd7b0800000000000000
+      internalID: -5198169616364696909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_26
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 44
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6552dca5a92827180800000000000000
+      internalID: -9119082696011864746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f91b447f3e02a890800000000000000
+      internalID: -7448375168020571655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_28
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 22
+        width: 75
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d680d2b6a0c3ed500800000000000000
+      internalID: 422841430464858221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_29
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 32
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd826fb9b9bbafd0800000000000000
+      internalID: -2329564174803104316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_30
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 24
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3787dd8fae3ba580800000000000000
+      internalID: -8814882921927702722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_31
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 32
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6f8d6d9f1263420800000000000000
+      internalID: 2609310391042897573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_32
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 24
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b7c7a5af1fbbbf0800000000000000
+      internalID: -307386091982521515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_33
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 32
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd794e631dc97ca0800000000000000
+      internalID: -6018553943665574434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_34
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 24
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42bf758b1ff36a00800000000000000
+      internalID: 748722456742572623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_35
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 32
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919fa9177ee5763c0800000000000000
+      internalID: -4366416965575968487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_36
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 24
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ff30eb0b34cbc70800000000000000
+      internalID: 8988133382705905531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_37
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 32
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b39c15e9d119b70800000000000000
+      internalID: 8903930504102361860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_38
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 32
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b2b14bbe75bc870800000000000000
+      internalID: 8704147374674225920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_39
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 28
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7030a83a4cfd0c230800000000000000
+      internalID: 3657168933075157767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_40
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 28
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c77c74a4a28a910800000000000000
+      internalID: 1848774145555790998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_41
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 27
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b42e1591ac78e70800000000000000
+      internalID: 9117478180731636542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_42
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 11
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4092200000e6d270800000000000000
+      internalID: 8275047655946752077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_43
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 11
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b696055e36dadeb90800000000000000
+      internalID: -7210916783789676181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_44
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 16
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451a11b677cdb9fa0800000000000000
+      internalID: -5792794090226474668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_45
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 8
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78be3cff659dde3b0800000000000000
+      internalID: -5481486203758580857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_46
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 16
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a02f049415421d0800000000000000
+      internalID: -3376484445556962784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_47
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 8
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898323e6258c432c0800000000000000
+      internalID: -4452713875200919400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_48
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 16
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40fe37a4e43bbe0a0800000000000000
+      internalID: -6851185259276144892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_49
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 8
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b985bcd30c8fd1d30800000000000000
+      internalID: 4403949515192359067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_50
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 16
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09137250b8c589570800000000000000
+      internalID: 8473624451054252432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_51
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 8
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a9dc4f06d841470800000000000000
+      internalID: 8364465855497345591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_52
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 16
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa6184897fd42010800000000000000
+      internalID: 1163300316775541500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_53
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 16
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e2295ec7a889c90800000000000000
+      internalID: -7162822938300633549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_54
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 15
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bc200dd89e44f50800000000000000
+      internalID: 6864868527308983165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_55
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 15
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbb718b961b7aaa0800000000000000
+      internalID: -6149751698532877390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_56
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 17
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c615b5fd875eb5bd0800000000000000
+      internalID: -2640264449216523924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_57
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 5
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dacc459ac9190510800000000000000
+      internalID: 1515771107465808598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_58
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 5
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f5a5b36e4f7ab50800000000000000
+      internalID: 6604516648237555458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - Ducks_59
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 3
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4469d60d20288d90800000000000000
+      internalID: -7095385835161689009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NES - Duck Hunt - Ducks_0: -8506754297128721525
+      NES - Duck Hunt - Ducks_1: -3890645449816728157
+      NES - Duck Hunt - Ducks_10: -8413673640587252623
+      NES - Duck Hunt - Ducks_11: 2676286794251610208
+      NES - Duck Hunt - Ducks_12: -8362548583592841310
+      NES - Duck Hunt - Ducks_13: -3693856402991910653
+      NES - Duck Hunt - Ducks_14: -4337193011983746105
+      NES - Duck Hunt - Ducks_15: -3343154408854498576
+      NES - Duck Hunt - Ducks_16: 2036834167228711098
+      NES - Duck Hunt - Ducks_17: 5045023326224117876
+      NES - Duck Hunt - Ducks_18: 8528506121644886264
+      NES - Duck Hunt - Ducks_19: -4128055507486435126
+      NES - Duck Hunt - Ducks_2: -4842315275347259629
+      NES - Duck Hunt - Ducks_20: -1363909401531730906
+      NES - Duck Hunt - Ducks_21: 8184523329772923146
+      NES - Duck Hunt - Ducks_22: -1887401525029306816
+      NES - Duck Hunt - Ducks_23: -8538051200459994824
+      NES - Duck Hunt - Ducks_24: 807238000923681484
+      NES - Duck Hunt - Ducks_25: -5198169616364696909
+      NES - Duck Hunt - Ducks_26: -9119082696011864746
+      NES - Duck Hunt - Ducks_27: -7448375168020571655
+      NES - Duck Hunt - Ducks_28: 422841430464858221
+      NES - Duck Hunt - Ducks_29: -2329564174803104316
+      NES - Duck Hunt - Ducks_3: -2055489365365776948
+      NES - Duck Hunt - Ducks_30: -8814882921927702722
+      NES - Duck Hunt - Ducks_31: 2609310391042897573
+      NES - Duck Hunt - Ducks_32: -307386091982521515
+      NES - Duck Hunt - Ducks_33: -6018553943665574434
+      NES - Duck Hunt - Ducks_34: 748722456742572623
+      NES - Duck Hunt - Ducks_35: -4366416965575968487
+      NES - Duck Hunt - Ducks_36: 8988133382705905531
+      NES - Duck Hunt - Ducks_37: 8903930504102361860
+      NES - Duck Hunt - Ducks_38: 8704147374674225920
+      NES - Duck Hunt - Ducks_39: 3657168933075157767
+      NES - Duck Hunt - Ducks_4: 8629563384491437089
+      NES - Duck Hunt - Ducks_40: 1848774145555790998
+      NES - Duck Hunt - Ducks_41: 9117478180731636542
+      NES - Duck Hunt - Ducks_42: 8275047655946752077
+      NES - Duck Hunt - Ducks_43: -7210916783789676181
+      NES - Duck Hunt - Ducks_44: -5792794090226474668
+      NES - Duck Hunt - Ducks_45: -5481486203758580857
+      NES - Duck Hunt - Ducks_46: -3376484445556962784
+      NES - Duck Hunt - Ducks_47: -4452713875200919400
+      NES - Duck Hunt - Ducks_48: -6851185259276144892
+      NES - Duck Hunt - Ducks_49: 4403949515192359067
+      NES - Duck Hunt - Ducks_5: 8913824640829718490
+      NES - Duck Hunt - Ducks_50: 8473624451054252432
+      NES - Duck Hunt - Ducks_51: 8364465855497345591
+      NES - Duck Hunt - Ducks_52: 1163300316775541500
+      NES - Duck Hunt - Ducks_53: -7162822938300633549
+      NES - Duck Hunt - Ducks_54: 6864868527308983165
+      NES - Duck Hunt - Ducks_55: -6149751698532877390
+      NES - Duck Hunt - Ducks_56: -2640264449216523924
+      NES - Duck Hunt - Ducks_57: 1515771107465808598
+      NES - Duck Hunt - Ducks_58: 6604516648237555458
+      NES - Duck Hunt - Ducks_59: -7095385835161689009
+      NES - Duck Hunt - Ducks_6: 2201655434151381034
+      NES - Duck Hunt - Ducks_7: -6764501136438564760
+      NES - Duck Hunt - Ducks_8: -6629036128990694042
+      NES - Duck Hunt - Ducks_9: 6625927710933242719
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

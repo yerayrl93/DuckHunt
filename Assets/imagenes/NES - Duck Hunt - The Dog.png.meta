@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 4dda3affbca8f374d93fae87a35502f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7312960230851656823
+    second: NES - Duck Hunt - The Dog_0
+  - first:
+      213: 3680067013191549665
+    second: NES - Duck Hunt - The Dog_1
+  - first:
+      213: -5541963113127900107
+    second: NES - Duck Hunt - The Dog_2
+  - first:
+      213: -977857388656519716
+    second: NES - Duck Hunt - The Dog_3
+  - first:
+      213: 7223148366875476742
+    second: NES - Duck Hunt - The Dog_4
+  - first:
+      213: -2726318412725414866
+    second: NES - Duck Hunt - The Dog_5
+  - first:
+      213: -5453224722786481683
+    second: NES - Duck Hunt - The Dog_6
+  - first:
+      213: 1507836349979168606
+    second: NES - Duck Hunt - The Dog_7
+  - first:
+      213: 5093436153216397597
+    second: NES - Duck Hunt - The Dog_8
+  - first:
+      213: -2341539239517821685
+    second: NES - Duck Hunt - The Dog_9
+  - first:
+      213: -1383491044708788221
+    second: NES - Duck Hunt - The Dog_10
+  - first:
+      213: -5196992543422619894
+    second: NES - Duck Hunt - The Dog_11
+  - first:
+      213: -8094465615509473093
+    second: NES - Duck Hunt - The Dog_12
+  - first:
+      213: -321378367587200977
+    second: NES - Duck Hunt - The Dog_13
+  - first:
+      213: 2410404672582529528
+    second: NES - Duck Hunt - The Dog_14
+  - first:
+      213: 1356453586459354702
+    second: NES - Duck Hunt - The Dog_15
+  - first:
+      213: 3594324322559320016
+    second: NES - Duck Hunt - The Dog_16
+  - first:
+      213: -7076241265409987695
+    second: NES - Duck Hunt - The Dog_17
+  - first:
+      213: -8394865569371801990
+    second: NES - Duck Hunt - The Dog_18
+  - first:
+      213: -6329651334817785679
+    second: NES - Duck Hunt - The Dog_19
+  - first:
+      213: 8320038294562541114
+    second: NES - Duck Hunt - The Dog_20
+  - first:
+      213: -8104227319590317462
+    second: NES - Duck Hunt - The Dog_21
+  - first:
+      213: -3216556420424217078
+    second: NES - Duck Hunt - The Dog_22
+  - first:
+      213: 8134200497874782512
+    second: NES - Duck Hunt - The Dog_23
+  - first:
+      213: 4880147824912808576
+    second: NES - Duck Hunt - The Dog_24
+  - first:
+      213: 4820915215678869587
+    second: NES - Duck Hunt - The Dog_25
+  - first:
+      213: 2244091545580369362
+    second: NES - Duck Hunt - The Dog_26
+  - first:
+      213: 3314104205070148570
+    second: NES - Duck Hunt - The Dog_27
+  - first:
+      213: -5694180564119263037
+    second: NES - Duck Hunt - The Dog_28
+  - first:
+      213: -2405239897944180651
+    second: NES - Duck Hunt - The Dog_29
+  - first:
+      213: 6570517553109171928
+    second: NES - Duck Hunt - The Dog_30
+  - first:
+      213: -1888287736183596518
+    second: NES - Duck Hunt - The Dog_31
+  - first:
+      213: -6055717592516897135
+    second: NES - Duck Hunt - The Dog_32
+  - first:
+      213: -2635957210563549350
+    second: NES - Duck Hunt - The Dog_33
+  - first:
+      213: 5021164081601057215
+    second: NES - Duck Hunt - The Dog_34
+  - first:
+      213: 6135227123009977209
+    second: NES - Duck Hunt - The Dog_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Duck Hunt - The Dog_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 423
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983478f6a65238a90800000000000000
+      internalID: -7312960230851656823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - The Dog_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 423
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e24aee5379321330800000000000000
+      internalID: 3680067013191549665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - The Dog_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 423
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c81b349edf613b0800000000000000
+      internalID: -5541963113127900107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - The Dog_3
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 423
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5132cc2e3fd62f0800000000000000
+      internalID: -977857388656519716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - The Dog_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 367
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6034e877b27cd3460800000000000000
+      internalID: 7223148366875476742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - The Dog_5
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 367
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2415e829db2a2ad0800000000000000
+      internalID: -2726318412725414866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - The Dog_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 310
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de90fedc1014254b0800000000000000
+      internalID: -5453224722786481683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - The Dog_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f0ee3eb29ece410800000000000000
+      internalID: 1507836349979168606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - The Dog_8
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 251
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d117896f1358fa640800000000000000
+      internalID: 5093436153216397597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - The Dog_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05e6e8b77e218fd0800000000000000
+      internalID: -2341539239517821685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - The Dog_10
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 175
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308d232993adccce0800000000000000
+      internalID: -1383491044708788221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - The Dog_11
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 175
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fd0fc01d290e7b0800000000000000
+      internalID: -5196992543422619894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - The Dog_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 119
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8b1f4b86eaaaf80800000000000000
+      internalID: -8094465615509473093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - The Dog_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 119
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f205871d31c3a8bf0800000000000000
+      internalID: -321378367587200977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - The Dog_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f13932674a737120800000000000000
+      internalID: 2410404672582529528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - The Dog_15
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 73
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46e63f995713d210800000000000000
+      internalID: 1356453586459354702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - The Dog_16
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 67
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfd1b58dea91e130800000000000000
+      internalID: 3594324322559320016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - The Dog_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 73
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19be6468f042ccd90800000000000000
+      internalID: -7076241265409987695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - The Dog_18
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 73
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76bf681e327f7b80800000000000000
+      internalID: -8394865569371801990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - The Dog_19
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 73
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8db1c95af8828a0800000000000000
+      internalID: -6329651334817785679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - The Dog_20
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 73
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e0c095fb6b67370800000000000000
+      internalID: 8320038294562541114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - The Dog_21
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 73
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a629dccd030088f80800000000000000
+      internalID: -8104227319590317462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - The Dog_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ecc984afe7c53d0800000000000000
+      internalID: -3216556420424217078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - The Dog_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 23
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039c1a7814c72e070800000000000000
+      internalID: 8134200497874782512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - The Dog_24
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ab2533794c9b340800000000000000
+      internalID: 4880147824912808576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - The Dog_25
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 4
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35090daa8d457e240800000000000000
+      internalID: 4820915215678869587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - The Dog_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 21
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d576c9fe5d942f10800000000000000
+      internalID: 2244091545580369362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - The Dog_27
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3a5d337301efd20800000000000000
+      internalID: 3314104205070148570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - The Dog_28
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8ecbc22f43af0b0800000000000000
+      internalID: -5694180564119263037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - The Dog_29
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558b07b6e0fde9ed0800000000000000
+      internalID: -2405239897944180651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - The Dog_30
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de7a8707ea2f2b50800000000000000
+      internalID: 6570517553109171928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - The Dog_31
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1adc0bfe447bc5e0800000000000000
+      internalID: -1888287736183596518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - The Dog_32
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19652f52fe4c5fba0800000000000000
+      internalID: -6055717592516897135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - The Dog_33
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57ea3502e23b6bd0800000000000000
+      internalID: -2635957210563549350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - The Dog_34
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 0
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb118c20122cea540800000000000000
+      internalID: 5021164081601057215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - The Dog_35
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bf9530094b42550800000000000000
+      internalID: 6135227123009977209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NES - Duck Hunt - The Dog_0: -7312960230851656823
+      NES - Duck Hunt - The Dog_1: 3680067013191549665
+      NES - Duck Hunt - The Dog_10: -1383491044708788221
+      NES - Duck Hunt - The Dog_11: -5196992543422619894
+      NES - Duck Hunt - The Dog_12: -8094465615509473093
+      NES - Duck Hunt - The Dog_13: -321378367587200977
+      NES - Duck Hunt - The Dog_14: 2410404672582529528
+      NES - Duck Hunt - The Dog_15: 1356453586459354702
+      NES - Duck Hunt - The Dog_16: 3594324322559320016
+      NES - Duck Hunt - The Dog_17: -7076241265409987695
+      NES - Duck Hunt - The Dog_18: -8394865569371801990
+      NES - Duck Hunt - The Dog_19: -6329651334817785679
+      NES - Duck Hunt - The Dog_2: -5541963113127900107
+      NES - Duck Hunt - The Dog_20: 8320038294562541114
+      NES - Duck Hunt - The Dog_21: -8104227319590317462
+      NES - Duck Hunt - The Dog_22: -3216556420424217078
+      NES - Duck Hunt - The Dog_23: 8134200497874782512
+      NES - Duck Hunt - The Dog_24: 4880147824912808576
+      NES - Duck Hunt - The Dog_25: 4820915215678869587
+      NES - Duck Hunt - The Dog_26: 2244091545580369362
+      NES - Duck Hunt - The Dog_27: 3314104205070148570
+      NES - Duck Hunt - The Dog_28: -5694180564119263037
+      NES - Duck Hunt - The Dog_29: -2405239897944180651
+      NES - Duck Hunt - The Dog_3: -977857388656519716
+      NES - Duck Hunt - The Dog_30: 6570517553109171928
+      NES - Duck Hunt - The Dog_31: -1888287736183596518
+      NES - Duck Hunt - The Dog_32: -6055717592516897135
+      NES - Duck Hunt - The Dog_33: -2635957210563549350
+      NES - Duck Hunt - The Dog_34: 5021164081601057215
+      NES - Duck Hunt - The Dog_35: 6135227123009977209
+      NES - Duck Hunt - The Dog_4: 7223148366875476742
+      NES - Duck Hunt - The Dog_5: -2726318412725414866
+      NES - Duck Hunt - The Dog_6: -5453224722786481683
+      NES - Duck Hunt - The Dog_7: 1507836349979168606
+      NES - Duck Hunt - The Dog_8: 5093436153216397597
+      NES - Duck Hunt - The Dog_9: -2341539239517821685
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
