@@ -4,11 +4,14 @@ using UnityEngine.SceneManagement;
 
 public class controlJuego : MonoBehaviour
 {
-    private const float TIEMPO_INICIAL = 5f;
+    private const float TIEMPO_INICIAL = 60f;
     private float tiempoTranscurrido = TIEMPO_INICIAL;
     [SerializeField] private TextMeshProUGUI textoCronometro;
     private bool juegoTerminado = false;
-   
+
+    [SerializeField] private int puntos = 0;
+    [SerializeField] private TextMeshProUGUI textoPuntuacion;
+
     void Start()
     {
         Time.timeScale = 1f;
@@ -18,6 +21,10 @@ public class controlJuego : MonoBehaviour
             int segundos = Mathf.FloorToInt(tiempoTranscurrido % 60F);
             textoCronometro.text = string.Format("{0:00}:{1:00}", minutos, segundos);
 
+        }
+        if (textoPuntuacion != null)
+        {
+            textoPuntuacion.text = "SCORE: " + puntos;
         }
     }
 
@@ -46,6 +53,16 @@ public class controlJuego : MonoBehaviour
                 int segundos = Mathf.FloorToInt(tiempoTranscurrido % 60F);
                 textoCronometro.text = string.Format("{0:00}:{1:00}", minutos, segundos);
             }
+        }
+    }
+
+    public void sumarPuntos (int cantidad)
+    {
+        if (juegoTerminado) return;
+        puntos += cantidad;
+        if(textoPuntuacion != null)
+        {
+            textoPuntuacion.text = "Score: " + puntos;
         }
     }
     private void FinDelJuego(bool victoria)

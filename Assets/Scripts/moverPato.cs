@@ -9,11 +9,14 @@ public class moverPato : MonoBehaviour
     private float crono = 0;
     private bool moverse = true;
 
+    private Rigidbody2D rb;
+    private Collider2D col;
     void Start()
     {
         miTransform = this.transform;
         miAnimator = GetComponent<Animator>();
-
+        rb = GetComponent<Rigidbody2D>();   
+        col = GetComponent<Collider2D>();
         velY = 1;
         velX = 1;
     }
@@ -49,18 +52,28 @@ public class moverPato : MonoBehaviour
     }
 
     //nuevo metodo publico para comunicarnos con jUgador y Hit
-    // Método llamado cuando el pato recibe un impacto
+    // Mï¿½todo llamado cuando el pato recibe un impacto
     public void impactoPato()
     {
+      
         moverse = false;
+        rb.linearVelocity = Vector2.zero;
+        rb.gravityScale = 1;
+        col.enabled = false;
         miAnimator.SetTrigger("ImpactoPato");
+
+        controlJuego control = Object.FindAnyObjectByType<controlJuego>();
+        if(control != null)
+        {
+            control.sumarPuntos(25);
+
+        }
  
     }
     public void caerPato()
 
     {
         this.GetComponent<Rigidbody2D>().gravityScale = 1;
-        
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
