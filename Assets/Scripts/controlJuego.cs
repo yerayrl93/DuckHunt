@@ -12,6 +12,8 @@ public class controlJuego : MonoBehaviour
     [SerializeField] private int puntos = 0;
     [SerializeField] private TextMeshProUGUI textoPuntuacion;
 
+    [SerializeField] private int puntosParaGanar = 1000; //PUNTOS QUE NECESITARE PARA GANAR LA PARTIDA, EDITABLE DESDE EL HUB
+
     void Start()
     {
         Time.timeScale = 1f;
@@ -64,13 +66,29 @@ public class controlJuego : MonoBehaviour
         {
             textoPuntuacion.text = "Score: " + puntos;
         }
+        if(puntos>=puntosParaGanar)
+        {
+            FinDelJuego(true); //LLAMAMOS TRUE A FIN DEL JUEGO YA QUE 
+        }
     }
+
     private void FinDelJuego(bool victoria)
     {
         if (juegoTerminado) return;
         juegoTerminado = true;
-        Time.timeScale = 0f; 
-        
+        Time.timeScale = 0f;
+
+        // Guardamos la puntuación
+        PlayerPrefs.SetInt("UltimoScore", puntos);
+
+        int maxScore = PlayerPrefs.GetInt("MaxScore", 0);
+        if (puntos > maxScore)
+            PlayerPrefs.SetInt("MaxScore", puntos);
+
+        PlayerPrefs.Save();
+
+        // Cargar la escena final
+        SceneManager.LoadScene("Final");
     }
 }
 
