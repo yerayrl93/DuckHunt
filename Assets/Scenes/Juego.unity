@@ -758,7 +758,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NewMonoBehaviourScript
   patoVerde: {fileID: 4266824538693040175, guid: 20174512f1084aa46b6dc5703707a95a, type: 3}
-  tiempoSpawn: 1.25
+  tiempoSpawn: 0.5
 --- !u!4 &579940722
 Transform:
   m_ObjectHideFlags: 0
@@ -1141,7 +1141,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::controlJuego
   textoCronometro: {fileID: 1617371149}
-  puntos: 0
+  puntos: 50
   textoPuntuacion: {fileID: 97044034}
   puntosParaGanar: 1000
 --- !u!1 &1438568883
